@@ -170,7 +170,7 @@ var games = [
   },
   {
     id: 'retrobowl',
-    url: 'https://assets.3kh0.net/retro-bowl/index.html',
+    url: 'https://loserboysonyt.github.io',
     title: 'Retro Bowl',
     image: 'https://play-lh.googleusercontent.com/WRM5Y1xZmzcCP1YtO5zl6G2g7CU5c5ZfjX4UVrgi1bpNgkfy-wuB-bQx3kkeRfaGYQ'
   },
@@ -489,8 +489,8 @@ var games = [
   {
     id: 'snowrider',
     title: 'Snow Rider',
-    url: 'https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://cdn.jsdelivr.net/gh/sk1bx/89574567@71f165531792ae450fe0a522a52ba4e827344de2/sr3d.xml',
-    image: 'https://lh5.googleusercontent.com/7h-724mAeXnnyC-MA1OA8RI1iaQYgcCZlAt9A8hLk8BLruu0Bu5NCBH1geQJqAUmMztyS4dEIQruPJYgypQTarqr9G4-ydAM8bsQxL2rFL6LUPxbi2JnBEgrWqeg08a9Lg=w1280'
+    url: 'https://snowrider3d.com/data/image/snow-rider-3d.jpg',
+    image: 'https://html5.gamedistribution.com/3b79a8537ebc414fb4f9672a9b8c68c8/'
   },
   {
     id: '1on1basketball',
