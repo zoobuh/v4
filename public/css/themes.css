@@ -8,13 +8,13 @@ body[theme="midnight"] {
     --text-color: white;
     --background: #1a2023;
     --navbar: #0e1213;
-    --accent: #0284d4;
+    --accent: #dd7f1c;
 }
 body[theme="main"] {
     --text-color: white;
     --background: #1a2023;
     --navbar: #0e1213;
-    --accent: #0284d4;
+    --accent: #dd7f1c;
 }
 body[theme="lgbtq"] {
     --text-color: black;
