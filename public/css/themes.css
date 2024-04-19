@@ -7,12 +7,12 @@ body[theme="rose_gold"] {
 body[theme="midnight"] {
     --text-color: white;
     --background: #1a2023;
-    --navbar: #0e1213;
+    --navbar: #dd7f1c;
     --accent: #dd7f1c;
 }
 body[theme="main"] {
     --text-color: white;
-    --background: #dd7f1c;
+    --background: #1a2023;
     --navbar:#dd7f1c;
     --accent: #dd7f1c;
 }
