@@ -79,9 +79,9 @@ var apps = [
     },
     {
       'id': 'watchwave',
-      'title': 'WatchWave',
-      'url': 'https://watchwave-v2.vercel.app/watch',
-      'image': https://raw.githubusercontent.com/zoobuh/watchwave-njs/master/public/manifest-icon-192.maskable.png'
+      'title': 'Watch Wave',
+      'url': 'https://watchwave-v2.vercel.app/',
+      'image': 'https://raw.githubusercontent.com/zoobuh/watchwave-njs/master/public/manifest-icon-192.maskable.png'
     },
     {
       'id': 'coolmathgames',
