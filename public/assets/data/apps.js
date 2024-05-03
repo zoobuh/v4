@@ -81,7 +81,8 @@ var apps = [
       'id': 'watchwave',
       'title': 'Watch Wave',
       'url': 'https://watchwave-v2.vercel.app/',
-      'image': 'https://raw.githubusercontent.com/zoobuh/watchwave-njs/master/public/manifest-icon-192.maskable.png'
+      "image": "hyg"
+       "description": "Free Movie Streaming Site"
     },
     {
       'id': 'coolmathgames',
