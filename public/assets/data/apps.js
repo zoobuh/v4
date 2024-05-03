@@ -78,7 +78,7 @@ var apps = [
       'image': 'https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png'
     },
     {
-      'id': 'WatchWave',
+      'id': 'watchwave',
       'title': 'WatchWave',
       'url': 'https://watchwave-v2.vercel.app/watch',
       'image': https://raw.githubusercontent.com/zoobuh/watchwave-njs/master/public/manifest-icon-192.maskable.png'
