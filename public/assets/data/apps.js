@@ -79,7 +79,7 @@ var apps = [
     },
     {
       'id': 'watchwave',
-      'title': 'Watch Wave',
+      'title': 'WatchWave',
       'url': 'https://foxohub1.vercel.app/service/hvtrs8%2F-wctahuate%2Fv0.tepcgl%2Carp-lcnfilg',
       "image": "hyg"
        "description": "Free Movie Streaming Site"
