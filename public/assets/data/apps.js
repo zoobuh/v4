@@ -78,10 +78,10 @@ var apps = [
       'image': 'https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpmeXx6V.png'
     },
     {
-      'id': 'OnionFlix',
-      'title': 'OnionFlix',
-      'url': 'https://onionflix.org',
-      'image': 'https://media.discordapp.net/attachments/874296705196118077/1230670459159449610/image.png?ex=662306ae&is=6621b52e&hm=b4a3095b7ba4016df4f0265b0b564040aaa21aa7bfe027d604b8992a82e0abdc&=&format=webp&quality=lossless&width=50&height=53'
+      'id': 'WatchWave',
+      'title': 'WatchWave',
+      'url': 'https://watchwave-v2.vercel.app/watch',
+      'image': https://raw.githubusercontent.com/zoobuh/watchwave-njs/master/public/manifest-icon-192.maskable.png'
     },
     {
       'id': 'coolmathgames',
